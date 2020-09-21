@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/searchMovie/static/css/main.535c162a.chunk.css",
+    "main.js": "/searchMovie/static/js/main.201c7740.chunk.js",
+    "main.js.map": "/searchMovie/static/js/main.201c7740.chunk.js.map",
+    "runtime-main.js": "/searchMovie/static/js/runtime-main.9561d984.js",
+    "runtime-main.js.map": "/searchMovie/static/js/runtime-main.9561d984.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/searchMovie/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.334812b1.chunk.js": "/searchMovie/static/js/2.334812b1.chunk.js",
+    "static/js/2.334812b1.chunk.js.map": "/searchMovie/static/js/2.334812b1.chunk.js.map",
+    "index.html": "/searchMovie/index.html",
+    "precache-manifest.23fa1de6676178b0bf171e4ebf7f9a51.js": "/searchMovie/precache-manifest.23fa1de6676178b0bf171e4ebf7f9a51.js",
+    "service-worker.js": "/searchMovie/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/searchMovie/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.535c162a.chunk.css.map": "/searchMovie/static/css/main.535c162a.chunk.css.map",
+    "static/js/2.334812b1.chunk.js.LICENSE.txt": "/searchMovie/static/js/2.334812b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9561d984.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.334812b1.chunk.js",
+    "static/css/main.535c162a.chunk.css",
+    "static/js/main.201c7740.chunk.js"
+  ]
+}
